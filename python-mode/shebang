@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: shebang
+# key: shebang
+# contributor: Anders Bach Madsen <anders@bachmadsen.net>
+# --
+#!/usr/bin/env python
+$0
